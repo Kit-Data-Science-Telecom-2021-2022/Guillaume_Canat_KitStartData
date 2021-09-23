@@ -1,2 +1,2 @@
 # Kit-Start-Data
-Repository for BGD INFMD721 projects
+Guillaume Canat's repository for BGD INFMD721 projects
