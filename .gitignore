@@ -130,3 +130,6 @@ dmypy.json
 
 # ctags
 tags
+
+# data files
+*.csv
